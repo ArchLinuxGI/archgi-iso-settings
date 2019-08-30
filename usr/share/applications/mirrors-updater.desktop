@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Mirrors Updator
+Comment=Mirrors Updaters
+Categories=Utility;
+Exec=pkexec xterm -e 'reflector -f 30 -l 30 --number 10 --save /etc/pacman.d/mirrorlist'
+Icon=xterm
