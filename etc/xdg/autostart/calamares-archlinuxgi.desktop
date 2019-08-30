@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
-Name=Install ArchLinux Net-install
-Comment=Installer  ArchLinux Net-install
+Name=Install Arch Netinstall
+Comment=Installer for Arch Netinstall
 Categories=Utility;
-Exec=pkexec /usr/bin/calamares
+Exec=pkexec calamares
 Icon=calamares
