@@ -3,5 +3,5 @@ Type=Application
 Name=Mirrors Updator
 Comment=Mirrors Updaters
 Categories=Utility;
-Exec=pkexec qterminal -e 'sh /usr/share/applications/update.sh'
+Exec=xterm -e 'sh /usr/share/applications/update.sh'
 Icon=xterm
